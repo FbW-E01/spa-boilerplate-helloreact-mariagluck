@@ -17,6 +17,7 @@
   
 }
 
+
 .App-sidebar {
   grid-area: sidebar;
   background: rgb(115, 250, 115);
@@ -24,10 +25,12 @@
   
 }
 
+
 .App-main  {
   grid-area: main;
   padding: 10px;
 }
+
 
 .App-footer {
   grid-area: footer;
@@ -35,13 +38,12 @@
   padding: 10px;
 }
 
-.App-button {
 
+.App-button {
   background: indigo;
   margin-left: 20px;
   padding: 5px;
   color:white;
   border-radius: 12px;
-
 }
 
