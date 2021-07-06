@@ -1,6 +1,6 @@
 function Button() {
   
-    return <button class="App-button"> 
+    return <button className="App-button"> 
              I'm a button! 
           </button>;
       
